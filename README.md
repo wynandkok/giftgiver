@@ -1,5 +1,7 @@
 ## Gift Giver App
 
+All this little guy does is create form components for listing gift ideas. Nothing is saved; not locally nor on a remote databse.
+
 This project is put together while following David Katz's [React - Mastering Test and Behavior Driven Development](https://www.udemy.com/react-tdd/learn/v4/overview) Udemy course.
 
 Also, this project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
